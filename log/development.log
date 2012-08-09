@@ -88,3 +88,43 @@ Served asset /welcome.js - 200 OK (93ms)
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-07 20:37:46 +0530
 Served asset /application.js - 200 OK (109ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-08-09 19:36:23 +0530
+Served asset /rails.png - 200 OK (46ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-08-09 19:36:27 +0530
+Processing by Rails::InfoController#properties as HTML
+  Rendered inline template (46.9ms)
+Completed 200 OK in 453ms (Views: 453.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-09 19:49:17 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 453ms (Views: 453.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-09 19:49:17 +0530
+Served asset /application.css - 200 OK (62ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2012-08-09 19:49:18 +0530
+Served asset /welcome.css - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-09 19:49:18 +0530
+Served asset /jquery.js - 200 OK (15ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-09 19:49:18 +0530
+Served asset /jquery_ujs.js - 200 OK (78ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2012-08-09 19:49:18 +0530
+Served asset /welcome.js - 200 OK (15ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-09 19:49:18 +0530
+Served asset /application.js - 200 OK (31ms)
