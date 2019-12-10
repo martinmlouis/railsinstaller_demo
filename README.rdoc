@@ -128,6 +128,7 @@ without arguments will launch it in the development environment.
 To start the console, run <tt>rails console</tt> from the application
 directory.
 
+Test1
 Options:
 
 * Passing the <tt>-s, --sandbox</tt> argument will rollback any modifications
