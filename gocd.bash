@@ -1,6 +1,5 @@
 #!/usr/bin/bash
 
-echo testing
-
+echo "testing"
 
 exit 1
